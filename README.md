@@ -3,7 +3,8 @@
 在原有GsonFormat基础上修改了：带有初始化值的 GsonFormat。
 可以规避一些空指针异常
 
-效果如下：
+### 使用Code中的 .zip Install Plugin from disk 替换原有的 GsonFormat
+### 效果如下：
 
 ```java
 public class TestModel {
